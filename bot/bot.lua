@@ -208,6 +208,7 @@ function create_config( )
   config = {
     enabled_plugins = {
       "x",
+      "plugins",
       "leave",
 },
     sudo_users = {119989724},
